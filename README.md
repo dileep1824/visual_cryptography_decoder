@@ -1,2 +1,2 @@
-# visual_cryptography_decoder
+# visual_cryptography
 Just a solution for a CTF challenge
